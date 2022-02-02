@@ -1,1 +1,8 @@
-This project automates the github publish
+pip-upgrader
+pandas
+requests
+pickle-mixin
+scikit-learn
+streamlit
+feature-engine
+    
